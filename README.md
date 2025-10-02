@@ -119,3 +119,10 @@ The system includes:
 ##### StudentManager.java -> https://github.com/SidharthBScCS/Student-Management-System-2/blob/main/service/StudentManager.java
 
 ##### StudentManagementSystemMain -> https://github.com/SidharthBScCS/Student-Management-System-2/blob/main/StudentManagementSystemMain.java
+
+### Student Details
+- **Name          :      Sidharth Krishna S**
+- **RollNo        :      2401720003**
+- **Course        :      BSc Computer Science**
+- **Semester      :      3rd Semester**
+- **Assignment    :      Lab Assignment 2**
