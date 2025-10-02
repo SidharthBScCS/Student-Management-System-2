@@ -112,10 +112,10 @@ The system includes:
 
 ##### Person.java -> [https://github.com/SidharthBScCS/Student-Management-System-2/blob/main/StudentManagementSystemMain.java](https://github.com/SidharthBScCS/Student-Management-System-2/blob/main/model/Person.java)
 
-### Student.java -> https://github.com/SidharthBScCS/Student-Management-System-2/blob/main/model/Student.java
+##### Student.java -> https://github.com/SidharthBScCS/Student-Management-System-2/blob/main/model/Student.java
 
-### RecordAction.java -> https://github.com/SidharthBScCS/Student-Management-System-2/blob/main/service/RecordActions.java
+##### RecordAction.java -> https://github.com/SidharthBScCS/Student-Management-System-2/blob/main/service/RecordActions.java
 
-### StudentManager.java -> https://github.com/SidharthBScCS/Student-Management-System-2/blob/main/service/StudentManager.java
+##### StudentManager.java -> https://github.com/SidharthBScCS/Student-Management-System-2/blob/main/service/StudentManager.java
 
-### StudentManagementSystemMain -> https://github.com/SidharthBScCS/Student-Management-System-2/blob/main/StudentManagementSystemMain.java
+##### StudentManagementSystemMain -> https://github.com/SidharthBScCS/Student-Management-System-2/blob/main/StudentManagementSystemMain.java
