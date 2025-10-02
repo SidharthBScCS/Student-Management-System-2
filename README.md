@@ -90,4 +90,13 @@ The system should include:
 
 ---
 
+### How to run the StudentManagementSystem
 
+- Step 1 : Click on Code in blue color.
+- Step 2 : Click on the Codespace.
+- Step 3 : Click on the '+' sign.
+- Step 4 : After opening the VSCode like setup.
+- Step 5 : Open terminal 
+- Step 6 : Type ' javac StudentManagementSystem.java '
+- Step 7 : Type ' java StudentManagementSystem ' 
+- OR Clicking on any existing CodeSpace.
