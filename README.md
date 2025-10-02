@@ -12,7 +12,7 @@ system should demonstrate method overriding, method overloading, and
 the use of abstract methods. 
  
 
-The system should include:  
+The system includes:  
 - An abstract class Person with fields name and email.  
 - A Student class extending Person with fields rollNo, course, marks, and grade.  
 - An interface RecordActions with methods for adding, deleting, updating, searching, and viewing student records.  
@@ -44,8 +44,8 @@ The system should include:
 - Attributes: rollNo, course, marks, grade  
 - Parameterized constructor  
 - calcGrade() → calculates grade based on marks  
-- displayInfo() → overridden method (method overriding)  
-- displayInfo(String msg) → overloaded method (method overloading)  
+- displayInfo() → method overriding
+- displayInfo(String msg) → method overloading
 
 ---
 
@@ -99,15 +99,15 @@ The system should include:
 
 
 
-## How to run the StudentManagementSystem
+## How to run the StudentManagementSystemMain
 
 - Step 1 : Click on Code in blue color.
 - Step 2 : Click on the Codespace.
 - Step 3 : Click on the '+' sign.
 - Step 4 : After opening the VSCode like setup.
 - Step 5 : Open terminal 
-- Step 6 : Type ' javac StudentManagementSystem.java '
-- Step 7 : Type ' java StudentManagementSystem ' 
+- Step 6 : Type ' javac StudentManagementSystemMain.java '
+- Step 7 : Type ' java StudentManagementSystemMain ' 
 - OR Clicking on any existing CodeSpace.
 
 ## Java StudentManagemntSystemMain File -> https://github.com/SidharthBScCS/Student-Management-System-2/blob/main/StudentManagementSystemMain.java
