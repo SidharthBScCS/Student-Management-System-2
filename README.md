@@ -110,7 +110,7 @@ The system includes:
 - Step 7 : Type ' java StudentManagementSystemMain ' 
 - OR Clicking on any existing CodeSpace.
 
-### Person.java -> [https://github.com/SidharthBScCS/Student-Management-System-2/blob/main/StudentManagementSystemMain.java](https://github.com/SidharthBScCS/Student-Management-System-2/blob/main/model/Person.java)
+##### Person.java -> [https://github.com/SidharthBScCS/Student-Management-System-2/blob/main/StudentManagementSystemMain.java](https://github.com/SidharthBScCS/Student-Management-System-2/blob/main/model/Person.java)
 
 ### Student.java -> https://github.com/SidharthBScCS/Student-Management-System-2/blob/main/model/Student.java
 
