@@ -110,4 +110,12 @@ The system includes:
 - Step 7 : Type ' java StudentManagementSystemMain ' 
 - OR Clicking on any existing CodeSpace.
 
-## Java StudentManagemntSystemMain File -> https://github.com/SidharthBScCS/Student-Management-System-2/blob/main/StudentManagementSystemMain.java
+### Person.java -> [https://github.com/SidharthBScCS/Student-Management-System-2/blob/main/StudentManagementSystemMain.java](https://github.com/SidharthBScCS/Student-Management-System-2/blob/main/model/Person.java)
+
+### Student.java -> https://github.com/SidharthBScCS/Student-Management-System-2/blob/main/model/Student.java
+
+### RecordAction.java -> https://github.com/SidharthBScCS/Student-Management-System-2/blob/main/service/RecordActions.java
+
+### StudentManager.java -> https://github.com/SidharthBScCS/Student-Management-System-2/blob/main/service/StudentManager.java
+
+### StudentManagementSystemMain -> https://github.com/SidharthBScCS/Student-Management-System-2/blob/main/StudentManagementSystemMain.java
