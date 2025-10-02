@@ -90,7 +90,16 @@ The system should include:
 
 ---
 
-### How to run the StudentManagementSystem
+## Sample ScreenShot
+<img width="1366" height="768" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/3fcfce60-2dd4-4cff-bd39-b778ed070e2d" />
+<img width="1366" height="768" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/88b2bb4f-1754-407e-9501-25b3522746e5" />
+<img width="1366" height="768" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/81d92b75-0301-4eb6-a113-13ed68afdad0" />
+
+
+
+
+
+## How to run the StudentManagementSystem
 
 - Step 1 : Click on Code in blue color.
 - Step 2 : Click on the Codespace.
@@ -100,3 +109,5 @@ The system should include:
 - Step 6 : Type ' javac StudentManagementSystem.java '
 - Step 7 : Type ' java StudentManagementSystem ' 
 - OR Clicking on any existing CodeSpace.
+
+## Java StudentManagemntSystemMain File -> https://github.com/SidharthBScCS/Student-Management-System-2/blob/main/StudentManagementSystemMain.java
